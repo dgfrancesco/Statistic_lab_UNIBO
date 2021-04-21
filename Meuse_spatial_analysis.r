@@ -1,4 +1,4 @@
-### Statics lab group's poject for exam at Alma Mater Studiorum University of Bologna 
+### Statics lab group's poject at Alma Mater Studiorum University of Bologna 
 
 # more details of meuse poject are on books: 
 # Bivand, Pebesma, Gomez-Rubio "Applied Spatial Data Analysis with R"
